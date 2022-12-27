@@ -1,0 +1,18 @@
+.container-fluid {
+    background-color: slategray;
+}
+.nav-link{
+    font-size: larger;
+    color:rgb(149, 158, 237);
+    
+
+}
+.nav-link:hover {
+    color:black;
+    font-weight: bold;
+    
+}
+.container p {
+    display:flex;
+    justify-content: center;
+}
