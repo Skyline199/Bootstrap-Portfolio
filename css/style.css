@@ -1,9 +1,10 @@
+
 .container-fluid {
-    background-color: slategray;
+    background-color: rgb(183, 200, 216);
 }
 .nav-link{
     font-size: larger;
-    color:rgb(149, 158, 237);
+    color:rgb(4, 17, 136);
     
 
 }
